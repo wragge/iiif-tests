@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/manifest.json",
+  "@id": "https://nla.gov.au/nla.obj-2590820305",
   "@type": "sc:Manifest",
   "label": "Posters",
   "metadata": [
@@ -17,311 +17,342 @@
   "attribution": "Provided by the Houghton Library, Harvard University",
   "sequences": [
     {
-      "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/sequence/normal.json",
       "@type": "sc:Sequence",
       "label": "Normal Order",
       "canvases": [
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133566111.json",
+          "@id": "https://nla.gov.au/nla.obj-133566111",
           "@type": "sc:Canvas",
           "label": "July 9 - National Aborigines' Day 1971 [picture] : houseroom : our aim.",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133566111-t"
+          },
           "height": 8329,
           "width": 6221,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133566111/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133566111/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133566111.json"
+              "on": "https://nla.gov.au/nla.obj-133566111"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133566198.json",
+          "@id": "https://nla.gov.au/nla.obj-133566198",
           "@type": "sc:Canvas",
           "label": "Cleaning houses is easy if you use these things [picture] : help stop sickness.",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133566198-t"
+          },
           "height": 14129,
           "width": 10017,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133566198/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133566198/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133566198.json"
+              "on": "https://nla.gov.au/nla.obj-133566198"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133644252.json",
+          "@id": "https://nla.gov.au/nla.obj-133644252",
           "@type": "sc:Canvas",
           "label": "Karli [picture] = the boomerang",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133644252-t"
+          },
           "height": 16291,
           "width": 11951,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133644252/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133644252/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133644252.json"
+              "on": "https://nla.gov.au/nla.obj-133644252"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780668.json",
+          "@id": "https://nla.gov.au/nla.obj-133780668",
           "@type": "sc:Canvas",
           "label": "Musicological Society of Australia [picture] : Eleventh National Conference : collectons performance and research : Canberra, 13-16th May 1987",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780668-t"
+          },
           "height": 12819,
           "width": 5416,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780668/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780668/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780668.json"
+              "on": "https://nla.gov.au/nla.obj-133780668"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780707.json",
+          "@id": "https://nla.gov.au/nla.obj-133780707",
           "@type": "sc:Canvas",
           "label": "National Aborigines' Week, September 8-14 1986 : peace - not for you, not for me, but for all of us ...",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780707-t"
+          },
           "height": 10576,
           "width": 7542,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780707/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780707/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780707.json"
+              "on": "https://nla.gov.au/nla.obj-133780707"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780906.json",
+          "@id": "https://nla.gov.au/nla.obj-133780906",
           "@type": "sc:Canvas",
           "label": "Sacred sites [picture] : National Aborigines week 6-12 July '81",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780906-t"
+          },
           "height": 6024,
           "width": 8192,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780906/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780906/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780906.json"
+              "on": "https://nla.gov.au/nla.obj-133780906"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780922.json",
+          "@id": "https://nla.gov.au/nla.obj-133780922",
           "@type": "sc:Canvas",
           "label": "Koorie bands corroboree [picture] : Koomparto : Dragon : Gondwanaland",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780922-t"
+          },
           "height": 12665,
           "width": 8517,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780922/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780922/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780922.json"
+              "on": "https://nla.gov.au/nla.obj-133780922"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780940.json",
+          "@id": "https://nla.gov.au/nla.obj-133780940",
           "@type": "sc:Canvas",
           "label": "Imparja [picture] : music from black Australia.",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780940-t"
+          },
           "height": 12479,
           "width": 8430,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780940/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780940/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780940.json"
+              "on": "https://nla.gov.au/nla.obj-133780940"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780987.json",
+          "@id": "https://nla.gov.au/nla.obj-133780987",
           "@type": "sc:Canvas",
           "label": "Software piracy is illegal [picture] : it can lead to criminal prosecution",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133780987-t"
+          },
           "height": 7096,
           "width": 5048,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133780987/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133780987/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133780987.json"
+              "on": "https://nla.gov.au/nla.obj-133780987"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781008.json",
+          "@id": "https://nla.gov.au/nla.obj-133781008",
           "@type": "sc:Canvas",
           "label": "Don't fall down on security [picture] : computer output is no different from other documents : give it the same protection!",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781008-t"
+          },
           "height": 7102,
           "width": 5035,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781008/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781008/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781008.json"
+              "on": "https://nla.gov.au/nla.obj-133781008"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781024.json",
+          "@id": "https://nla.gov.au/nla.obj-133781024",
           "@type": "sc:Canvas",
           "label": "Restrict access to information technology [picture] : lock up your PC",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781024-t"
+          },
           "height": 7112,
           "width": 5064,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781024/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781024/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781024.json"
+              "on": "https://nla.gov.au/nla.obj-133781024"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781043.json",
+          "@id": "https://nla.gov.au/nla.obj-133781043",
           "@type": "sc:Canvas",
           "label": "Data security [picture] : mark all floppies with appropriate classification",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781043-t"
+          },
           "height": 7080,
           "width": 5064,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781043/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781043/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781043.json"
+              "on": "https://nla.gov.au/nla.obj-133781043"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781062.json",
+          "@id": "https://nla.gov.au/nla.obj-133781062",
           "@type": "sc:Canvas",
           "label": "Over classification costs money [picture] : excercise care when necessary",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781062-t"
+          },
           "height": 7096,
           "width": 5063,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781062/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781062/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781062.json"
+              "on": "https://nla.gov.au/nla.obj-133781062"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781081.json",
+          "@id": "https://nla.gov.au/nla.obj-133781081",
           "@type": "sc:Canvas",
           "label": "Who goes there? [picture] : take care that only authorised personnel enter the computer room",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781081-t"
+          },
           "height": 7032,
           "width": 5000,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781081/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781081/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781081.json"
+              "on": "https://nla.gov.au/nla.obj-133781081"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781304.json",
+          "@id": "https://nla.gov.au/nla.obj-133781304",
           "@type": "sc:Canvas",
           "label": "Everyone can help stop sickness by looking after their dogs and cats [picture].",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-133781304-t"
+          },
           "height": 14150,
           "width": 10041,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-133781304/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-133781304/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-133781304.json"
+              "on": "https://nla.gov.au/nla.obj-133781304"
             }
           ]
         },
         {
-          "@id": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-2841363444.json",
+          "@id": "https://nla.gov.au/nla.obj-2841363444",
           "@type": "sc:Canvas",
           "label": "Aboriginal Australia [picture] : Free at the Australian Museum : 21 Oct. '81 - 31 Jan. '82.",
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-2841363444-t"
+          },
           "height": 15031,
           "width": 10344,
           "images": [
             {
-              "@id": "https://nla.gov.au/nla.obj-2841363444/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
                 "@id": "https://nla.gov.au/nla.obj-2841363444/image",
                 "@type": "dctypes:Image"
               },
-              "on": "https://glam-workbench.net/trove-images/nla.obj-2590820305/canvas/canvas/nla.obj-2841363444.json"
+              "on": "https://nla.gov.au/nla.obj-2841363444"
             }
           ]
         }
