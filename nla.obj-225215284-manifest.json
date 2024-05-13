@@ -1,0 +1,37 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://glam-workbench.net/trove-images/nla.obj-225215284-manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Promissory note - recto"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "type"
+        ]
+      },
+      "value": {
+        "en": [
+          "Manuscript"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://nla.gov.au/nla.obj-225215284",
+      "type": "Text",
+      "label": {
+        "en": [
+          "View in Trove"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "items": []
+}
