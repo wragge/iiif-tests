@@ -1,1086 +1,850 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://glam-workbench.net/trove-images/nla.obj-224512708-manifest.json",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Promissory notes"
-    ]
-  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nla.gov.au/nla.obj-224512708",
+  "@type": "sc:Manifest",
+  "label": "Promissory notes",
   "metadata": [
     {
-      "label": {
-        "en": [
-          "type"
-        ]
-      },
-      "value": {
-        "en": [
-          "Manuscript"
-        ]
-      }
+      "label": "type",
+      "value": "Manuscript"
     },
     {
-      "label": {
-        "en": [
-          "date"
-        ]
-      },
-      "value": {
-        "en": [
-          "1870"
-        ]
-      }
+      "label": "creator",
+      "value": ""
+    },
+    {
+      "label": "date",
+      "value": "1870"
+    },
+    {
+      "label": "publisher",
+      "value": ""
+    },
+    {
+      "label": "extent",
+      "value": ""
     }
   ],
-  "homepage": [
+  "description": "This manifest was created by harvesting collection metadata from the Trove website.",
+  "attribution": "National Library of Australia (via Trove). See: https://nla.gov.au/nla.obj-224512708",
+  "sequences": [
     {
-      "id": "https://nla.gov.au/nla.obj-224512708",
-      "type": "Text",
-      "label": {
-        "en": [
-          "View in Trove"
-        ]
-      },
-      "format": "text/html"
-    }
-  ],
-  "items": [
-    {
-      "id": "https://nla.gov.au/nla.obj-225215284",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1404,
-      "width": 2638,
-      "metadata": [
+      "@type": "sc:Sequence",
+      "label": "Normal Order",
+      "canvases": [
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215284-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215284",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215284/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215284",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215284/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215284/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215284-t"
+          },
+          "height": 1404,
+          "width": 2638,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215284/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215284/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1404,
-                "width": 2638,
-                "format": "image/jpeg"
+                "width": 2638
               },
-              "target": "https://nla.gov.au/nla.obj-225215284"
+              "on": "https://nla.gov.au/nla.obj-225215284"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225215409",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2597,
-      "width": 1389,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215409-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215409",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215409/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215409",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215409/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215409/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215409-t"
+          },
+          "height": 2597,
+          "width": 1389,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215409/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215409/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2597,
-                "width": 1389,
-                "format": "image/jpeg"
+                "width": 1389
               },
-              "target": "https://nla.gov.au/nla.obj-225215409"
+              "on": "https://nla.gov.au/nla.obj-225215409"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225215524",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1515,
-      "width": 2557,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215524-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215524",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215524/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215524",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215524/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215524/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215524-t"
+          },
+          "height": 1515,
+          "width": 2557,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215524/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215524/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1515,
-                "width": 2557,
-                "format": "image/jpeg"
+                "width": 2557
               },
-              "target": "https://nla.gov.au/nla.obj-225215524"
+              "on": "https://nla.gov.au/nla.obj-225215524"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225215641",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2597,
-      "width": 1467,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215641-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215641",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215641/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215641",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215641/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215641/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215641-t"
+          },
+          "height": 2597,
+          "width": 1467,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215641/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215641/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2597,
-                "width": 1467,
-                "format": "image/jpeg"
+                "width": 1467
               },
-              "target": "https://nla.gov.au/nla.obj-225215641"
+              "on": "https://nla.gov.au/nla.obj-225215641"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225215763",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1447,
-      "width": 2483,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215763-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215763",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215763/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215763",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215763/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215763/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215763-t"
+          },
+          "height": 1447,
+          "width": 2483,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215763/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215763/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1447,
-                "width": 2483,
-                "format": "image/jpeg"
+                "width": 2483
               },
-              "target": "https://nla.gov.au/nla.obj-225215763"
+              "on": "https://nla.gov.au/nla.obj-225215763"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225215888",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2477,
-      "width": 1531,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215888-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215888",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225215888/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225215888",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225215888/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225215888/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225215888-t"
+          },
+          "height": 2477,
+          "width": 1531,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225215888/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225215888/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2477,
-                "width": 1531,
-                "format": "image/jpeg"
+                "width": 1531
               },
-              "target": "https://nla.gov.au/nla.obj-225215888"
+              "on": "https://nla.gov.au/nla.obj-225215888"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216000",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1381,
-      "width": 2630,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216000-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216000",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216000/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216000",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216000/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216000/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216000-t"
+          },
+          "height": 1381,
+          "width": 2630,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216000/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216000/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1381,
-                "width": 2630,
-                "format": "image/jpeg"
+                "width": 2630
               },
-              "target": "https://nla.gov.au/nla.obj-225216000"
+              "on": "https://nla.gov.au/nla.obj-225216000"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216125",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2838,
-      "width": 1493,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216125-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216125",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216125/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216125",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216125/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216125/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216125-t"
+          },
+          "height": 2838,
+          "width": 1493,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216125/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216125/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2838,
-                "width": 1493,
-                "format": "image/jpeg"
+                "width": 1493
               },
-              "target": "https://nla.gov.au/nla.obj-225216125"
+              "on": "https://nla.gov.au/nla.obj-225216125"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216241",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1495,
-      "width": 2450,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216241-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216241",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216241/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216241",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216241/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216241/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216241-t"
+          },
+          "height": 1495,
+          "width": 2450,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216241/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216241/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1495,
-                "width": 2450,
-                "format": "image/jpeg"
+                "width": 2450
               },
-              "target": "https://nla.gov.au/nla.obj-225216241"
+              "on": "https://nla.gov.au/nla.obj-225216241"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216362",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2414,
-      "width": 1435,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216362-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216362",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216362/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216362",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216362/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216362/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216362-t"
+          },
+          "height": 2414,
+          "width": 1435,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216362/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216362/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2414,
-                "width": 1435,
-                "format": "image/jpeg"
+                "width": 1435
               },
-              "target": "https://nla.gov.au/nla.obj-225216362"
+              "on": "https://nla.gov.au/nla.obj-225216362"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216488",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1501,
-      "width": 2480,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216488-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216488",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216488/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216488",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216488/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216488/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216488-t"
+          },
+          "height": 1501,
+          "width": 2480,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216488/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216488/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1501,
-                "width": 2480,
-                "format": "image/jpeg"
+                "width": 2480
               },
-              "target": "https://nla.gov.au/nla.obj-225216488"
+              "on": "https://nla.gov.au/nla.obj-225216488"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216609",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2414,
-      "width": 1441,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216609-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216609",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216609/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216609",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216609/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216609/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216609-t"
+          },
+          "height": 2414,
+          "width": 1441,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216609/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216609/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2414,
-                "width": 1441,
-                "format": "image/jpeg"
+                "width": 1441
               },
-              "target": "https://nla.gov.au/nla.obj-225216609"
+              "on": "https://nla.gov.au/nla.obj-225216609"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216726",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1351,
-      "width": 2480,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216726-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216726",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216726/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216726",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216726/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216726/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216726-t"
+          },
+          "height": 1351,
+          "width": 2480,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216726/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216726/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1351,
-                "width": 2480,
-                "format": "image/jpeg"
+                "width": 2480
               },
-              "target": "https://nla.gov.au/nla.obj-225216726"
+              "on": "https://nla.gov.au/nla.obj-225216726"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216840",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2462,
-      "width": 1269,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216840-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216840",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216840/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216840",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216840/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216840/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216840-t"
+          },
+          "height": 2462,
+          "width": 1269,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216840/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216840/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2462,
-                "width": 1269,
-                "format": "image/jpeg"
+                "width": 1269
               },
-              "target": "https://nla.gov.au/nla.obj-225216840"
+              "on": "https://nla.gov.au/nla.obj-225216840"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225216961",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - recto"
-        ]
-      },
-      "height": 1465,
-      "width": 2462,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216961-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216961",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225216961/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225216961",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - recto",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225216961/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225216961/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225216961-t"
+          },
+          "height": 1465,
+          "width": 2462,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225216961/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225216961/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 1465,
-                "width": 2462,
-                "format": "image/jpeg"
+                "width": 2462
               },
-              "target": "https://nla.gov.au/nla.obj-225216961"
+              "on": "https://nla.gov.au/nla.obj-225216961"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://nla.gov.au/nla.obj-225217081",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Promissory note - verso"
-        ]
-      },
-      "height": 2450,
-      "width": 1423,
-      "metadata": [
+        },
         {
-          "label": {
-            "en": [
-              "type"
-            ]
-          },
-          "value": {
-            "en": [
-              "Manuscript"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225217081-t",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225217081",
-          "type": "Text",
-          "label": {
-            "en": [
-              "View in Trove"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://glam-workbench.net/trove-images/nla.obj-225217081/page/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://nla.gov.au/nla.obj-225217081",
+          "@type": "sc:Canvas",
+          "label": "Promissory note - verso",
+          "metadata": [
             {
-              "id": "https://glam-workbench.net/trove-images/nla.obj-225217081/annotation/",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://nla.gov.au/nla.obj-225217081/image",
-                "type": "Image",
+              "label": "type",
+              "value": "Manuscript"
+            },
+            {
+              "label": "creator",
+              "value": ""
+            },
+            {
+              "label": "date",
+              "value": ""
+            },
+            {
+              "label": "publisher",
+              "value": ""
+            },
+            {
+              "label": "extent",
+              "value": ""
+            },
+            {
+              "label": "rights",
+              "value": "Perpetual"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nla.gov.au/nla.obj-225217081-t"
+          },
+          "height": 2450,
+          "width": 1423,
+          "images": [
+            {
+              "@id": "https://nla.gov.au/nla.obj-225217081/view",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nla.gov.au/nla.obj-225217081/image",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
                 "height": 2450,
-                "width": 1423,
-                "format": "image/jpeg"
+                "width": 1423
               },
-              "target": "https://nla.gov.au/nla.obj-225217081"
+              "on": "https://nla.gov.au/nla.obj-225217081"
             }
           ]
         }
@@ -1089,172 +853,96 @@
   ],
   "structures": [
     {
-      "id": "https://nla.gov.au/nla.obj-291414649",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for forty eight pounds, one shilling and fivepence sterling (Item 56)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215284",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225215409",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-224512708/toc",
+      "@type": "sc:Range",
+      "label": "TOC",
+      "viewingHint": "top",
+      "ranges": [
+        "https://nla.gov.au/nla.obj-291414649",
+        "https://nla.gov.au/nla.obj-291414663",
+        "https://nla.gov.au/nla.obj-291414682",
+        "https://nla.gov.au/nla.obj-291414706",
+        "https://nla.gov.au/nla.obj-291414722",
+        "https://nla.gov.au/nla.obj-291414740",
+        "https://nla.gov.au/nla.obj-291414765",
+        "https://nla.gov.au/nla.obj-291414787"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414663",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for seven hundred and seventy pounds sterling (Item 57)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215524",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225215641",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414649",
+      "@type": "sc:Range",
+      "label": "Promissory note for forty eight pounds, one shilling and fivepence sterling (Item 56)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225215284",
+        "https://nla.gov.au/nla.obj-225215409"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414682",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for four hundred and fifty pounds sterling (Item 58)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225215763",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225215888",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414663",
+      "@type": "sc:Range",
+      "label": "Promissory note for seven hundred and seventy pounds sterling (Item 57)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225215524",
+        "https://nla.gov.au/nla.obj-225215641"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414706",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for fifty four pounds and fifteen shillings sterling (Item 59)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216000",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225216125",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414682",
+      "@type": "sc:Range",
+      "label": "Promissory note for four hundred and fifty pounds sterling (Item 58)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225215763",
+        "https://nla.gov.au/nla.obj-225215888"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414722",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for four hundred and fifty pounds sterling (Item 60)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216241",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225216362",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414706",
+      "@type": "sc:Range",
+      "label": "Promissory note for fifty four pounds and fifteen shillings sterling (Item 59)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225216000",
+        "https://nla.gov.au/nla.obj-225216125"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414740",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for four hundred pounds sterling (Item 61)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216488",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225216609",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414722",
+      "@type": "sc:Range",
+      "label": "Promissory note for four hundred and fifty pounds sterling (Item 60)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225216241",
+        "https://nla.gov.au/nla.obj-225216362"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414765",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for eight hundred pounds sterling (Item 62)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216726",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225216840",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414740",
+      "@type": "sc:Range",
+      "label": "Promissory note for four hundred pounds sterling (Item 61)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225216488",
+        "https://nla.gov.au/nla.obj-225216609"
       ]
     },
     {
-      "id": "https://nla.gov.au/nla.obj-291414787",
-      "type": "Range",
-      "label": {
-        "en": [
-          "Promissory note for three hundred and fifty pounds sterling (Item 63)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://nla.gov.au/nla.obj-225216961",
-          "type": "Canvas",
-          "items": []
-        },
-        {
-          "id": "https://nla.gov.au/nla.obj-225217081",
-          "type": "Canvas",
-          "items": []
-        }
+      "@id": "https://nla.gov.au/nla.obj-291414765",
+      "@type": "sc:Range",
+      "label": "Promissory note for eight hundred pounds sterling (Item 62)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225216726",
+        "https://nla.gov.au/nla.obj-225216840"
+      ]
+    },
+    {
+      "@id": "https://nla.gov.au/nla.obj-291414787",
+      "@type": "sc:Range",
+      "label": "Promissory note for three hundred and fifty pounds sterling (Item 63)",
+      "canvases": [
+        "https://nla.gov.au/nla.obj-225216961",
+        "https://nla.gov.au/nla.obj-225217081"
       ]
     }
-  ]
+  ],
+  "related": {
+    "@id": "https://nla.gov.au/nla.obj-224512708",
+    "label": "View in Trove"
+  }
 }
