@@ -51088,10 +51088,62 @@
   ],
   "structures": [
     {
+      "@id": "https://nla.gov.au/nla.obj-224441858/toc",
+      "@type": "sc:Range",
+      "label": "TOC",
+      "viewingHint": "top",
+      "ranges": [
+        "https://nla.gov.au/nla.obj-224446719",
+        "https://nla.gov.au/nla.obj-224445609",
+        "https://nla.gov.au/nla.obj-224445638",
+        "https://nla.gov.au/nla.obj-224445667",
+        "https://nla.gov.au/nla.obj-224445695",
+        "https://nla.gov.au/nla.obj-224446743",
+        "https://nla.gov.au/nla.obj-224445726",
+        "https://nla.gov.au/nla.obj-224445783",
+        "https://nla.gov.au/nla.obj-224445811",
+        "https://nla.gov.au/nla.obj-224445840",
+        "https://nla.gov.au/nla.obj-224445879",
+        "https://nla.gov.au/nla.obj-224446770",
+        "https://nla.gov.au/nla.obj-224445904",
+        "https://nla.gov.au/nla.obj-224445936",
+        "https://nla.gov.au/nla.obj-224446802",
+        "https://nla.gov.au/nla.obj-224445961",
+        "https://nla.gov.au/nla.obj-224446831",
+        "https://nla.gov.au/nla.obj-224445999",
+        "https://nla.gov.au/nla.obj-224446020",
+        "https://nla.gov.au/nla.obj-224446116",
+        "https://nla.gov.au/nla.obj-224446175",
+        "https://nla.gov.au/nla.obj-224446209",
+        "https://nla.gov.au/nla.obj-224446238",
+        "https://nla.gov.au/nla.obj-224446866",
+        "https://nla.gov.au/nla.obj-224446267",
+        "https://nla.gov.au/nla.obj-224446295",
+        "https://nla.gov.au/nla.obj-224446530",
+        "https://nla.gov.au/nla.obj-224446890",
+        "https://nla.gov.au/nla.obj-224446921",
+        "https://nla.gov.au/nla.obj-224446563",
+        "https://nla.gov.au/nla.obj-224446596",
+        "https://nla.gov.au/nla.obj-224446626",
+        "https://nla.gov.au/nla.obj-224446652",
+        "https://nla.gov.au/nla.obj-224446683",
+        "https://nla.gov.au/nla.obj-224445752",
+        "https://nla.gov.au/nla.obj-224446057",
+        "https://nla.gov.au/nla.obj-224446085",
+        "https://nla.gov.au/nla.obj-224446142",
+        "https://nla.gov.au/nla.obj-224446329",
+        "https://nla.gov.au/nla.obj-224446355",
+        "https://nla.gov.au/nla.obj-224446386",
+        "https://nla.gov.au/nla.obj-224446411",
+        "https://nla.gov.au/nla.obj-224446440",
+        "https://nla.gov.au/nla.obj-224446479",
+        "https://nla.gov.au/nla.obj-224446501"
+      ]
+    },
+    {
       "@id": "https://nla.gov.au/nla.obj-224446719",
       "@type": "sc:Range",
       "label": "Copies of commissions, letters patent, appointing various Governors of colonies. (Subseries 978-85)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224590770",
         "https://nla.gov.au/nla.obj-224590802",
@@ -51199,7 +51251,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445609",
       "@type": "sc:Range",
       "label": "An Act to remove doubts as to the validity of colonial laws (Item 986)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224591018",
         "https://nla.gov.au/nla.obj-224591132",
@@ -51210,7 +51261,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445638",
       "@type": "sc:Range",
       "label": "An Act for the Union of Canada, Nova Scotia and New Brunswick and the Government thereof.. (Item 987)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224591374",
         "https://nla.gov.au/nla.obj-224591492",
@@ -51257,7 +51307,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445667",
       "@type": "sc:Range",
       "label": "An Act to constitute a Federal Council of Australasia (Item 988)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224596051",
         "https://nla.gov.au/nla.obj-224596177",
@@ -51270,7 +51319,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445695",
       "@type": "sc:Range",
       "label": "Correspondence relating to the Federation conference in Australia. Presented to both Houses of Parliament.. (Item 989)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224596657",
         "https://nla.gov.au/nla.obj-224596776",
@@ -51422,7 +51470,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446743",
       "@type": "sc:Range",
       "label": "Draft of a bill to constitute the Commonwealth of Australia (Subseries 990-990b)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224613937",
         "https://nla.gov.au/nla.obj-224613968",
@@ -51542,7 +51589,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445726",
       "@type": "sc:Range",
       "label": "A Bill to provide for the submission of the Constitution of the Commonwealth of Australia as adopted by the National Australasian Convention... for the consideration of the people of Queensland (Item 991-991a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224614023"
       ]
@@ -51551,7 +51597,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445783",
       "@type": "sc:Range",
       "label": "[Draft of] a Bill for the Federation of the Australasian Colonies of New South Wales, Queensland, Tasmania, Victoria, Western Australia and the Province of South Australia and the Government thereof... with MS emendations (Item 992)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224614505",
         "https://nla.gov.au/nla.obj-224614620",
@@ -51577,7 +51622,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445811",
       "@type": "sc:Range",
       "label": "Rules and Proposals of the Australasian Federation League, Sydney (Item 993)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224616667",
         "https://nla.gov.au/nla.obj-224616783",
@@ -51605,7 +51649,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445840",
       "@type": "sc:Range",
       "label": "An Act to enable New South Wales to take part in the framing, acceptance and enactment of a Federal Constitution for Australia (Item 994)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224619060",
         "https://nla.gov.au/nla.obj-224619186",
@@ -51621,7 +51664,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445879",
       "@type": "sc:Range",
       "label": "Australian Federal Convention: Bathurst Financial Scheme (Item 995)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224620028",
         "https://nla.gov.au/nla.obj-224620140",
@@ -51635,7 +51677,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446770",
       "@type": "sc:Range",
       "label": "Australasian Federal Convention, Adelaide (Subseries 996-996a)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224620748",
         "https://nla.gov.au/nla.obj-224620773"
@@ -51668,7 +51709,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445904",
       "@type": "sc:Range",
       "label": "Australasian Federal Convention, Adelaide, 1897 (Item 997)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224620800",
         "https://nla.gov.au/nla.obj-224620927",
@@ -51722,7 +51762,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445936",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia (Item 998)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224626339",
         "https://nla.gov.au/nla.obj-224626451",
@@ -51755,7 +51794,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446802",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia, 1897 (with envelope) (Subseries 999-999a)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224629334",
         "https://nla.gov.au/nla.obj-224629369"
@@ -51810,7 +51848,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445961",
       "@type": "sc:Range",
       "label": "Draft of a bill to constitute the Commonwealth of Australia (Item 1000)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224629391",
         "https://nla.gov.au/nla.obj-224629518",
@@ -51885,7 +51922,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446831",
       "@type": "sc:Range",
       "label": "Draft of a bill to constitute the Commonwealth of Australia (Subseries 1001-01d)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224637433",
         "https://nla.gov.au/nla.obj-224637465",
@@ -52019,7 +52055,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445999",
       "@type": "sc:Range",
       "label": "Draft of a bill to constitute the Commonwealth of Australia (Item 1002)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224637582",
         "https://nla.gov.au/nla.obj-224637708",
@@ -52062,7 +52097,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446020",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia (Item 1003-3b)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224641782"
       ]
@@ -52071,7 +52105,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446116",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia (Item 1004-4a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224642381",
         "https://nla.gov.au/nla.obj-224642502",
@@ -52141,7 +52174,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446175",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia (Item 1005)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224655828",
         "https://nla.gov.au/nla.obj-224655945",
@@ -52172,7 +52204,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446209",
       "@type": "sc:Range",
       "label": "Report of the Joint Select Committee of the Legislative Council and Legislative Assembly appointed to consider the draft of a bill to constitute the Commonwealth of Australia (Item 1006)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224658587",
         "https://nla.gov.au/nla.obj-224658702",
@@ -52185,7 +52216,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446238",
       "@type": "sc:Range",
       "label": "The Federal Association of New South Wales (Item 1007)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224659185",
         "https://nla.gov.au/nla.obj-224659305",
@@ -52196,7 +52226,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446866",
       "@type": "sc:Range",
       "label": "Samples of anti-federal literature (Subseries 1008-12)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224659543",
         "https://nla.gov.au/nla.obj-224659570",
@@ -52261,7 +52290,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446267",
       "@type": "sc:Range",
       "label": "Draft of a Bill to Constitute the Commonwealth of Australia (Item 1013)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224659725",
         "https://nla.gov.au/nla.obj-224659842",
@@ -52293,7 +52321,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446295",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, ; notes relating to the alterations March-May 1900. (Item 1014-14g)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224662619",
         "https://nla.gov.au/nla.obj-224662736",
@@ -52314,7 +52341,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446530",
       "@type": "sc:Range",
       "label": "Notes, memoranda, etc. concerning the discussions, between the delegation from the Federating colonies and the Colonial Office, of the draft bill (Item 1015)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224665857",
         "https://nla.gov.au/nla.obj-224665971",
@@ -52329,7 +52355,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446890",
       "@type": "sc:Range",
       "label": "A Bill to Constitute the Commonwealth of Australia (Subseries 1016-17)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224666692"
       ]
@@ -52371,7 +52396,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446921",
       "@type": "sc:Range",
       "label": "House of Commons (Subseries 1018a-20)",
-      "viewingHint": "top",
       "ranges": [
         "https://nla.gov.au/nla.obj-224666729",
         "https://nla.gov.au/nla.obj-224666755",
@@ -52450,7 +52474,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446563",
       "@type": "sc:Range",
       "label": "Commonwealth of Australia Constitution Act (Item 1021)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224666817",
         "https://nla.gov.au/nla.obj-224666933",
@@ -52477,7 +52500,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446596",
       "@type": "sc:Range",
       "label": "Commonwealth of Australia Gazette No. 1, 1 January 1901, in which the establishment of the Commonwealth of Australia was proclaimed (Item 1022)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224669092",
         "https://nla.gov.au/nla.obj-224669210",
@@ -52490,7 +52512,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446626",
       "@type": "sc:Range",
       "label": "Western Australia, Government Gazette Extraordinary, No. 1, 1 January 1901, in which the establishment of the Commonwealth of Australia was proclaimed (Item 1023)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224669695",
         "https://nla.gov.au/nla.obj-224669811",
@@ -52506,7 +52527,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446652",
       "@type": "sc:Range",
       "label": "Commonwealth Hymn by Nicholas J. Gehde, which was dedicated to Barton. (Item 1024)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224670658",
         "https://nla.gov.au/nla.obj-224670779",
@@ -52518,7 +52538,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446683",
       "@type": "sc:Range",
       "label": "One flag, one destiny: dedicated to Federated Australia, 1st January 1901 (Item 1024a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224671138",
         "https://nla.gov.au/nla.obj-224671252",
@@ -52533,7 +52552,6 @@
       "@id": "https://nla.gov.au/nla.obj-224445752",
       "@type": "sc:Range",
       "label": "A Bill to provide for the submission of the Constitution of the Commonwealth of Australia as adopted by the National Australasian Convention... for the consideration of the people of Queensland. 1891 (Item 991a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224614144",
         "https://nla.gov.au/nla.obj-224614265",
@@ -52544,7 +52562,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446057",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia. 12 March 1898 (Item 1003a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224641902",
         "https://nla.gov.au/nla.obj-224642021"
@@ -52554,7 +52571,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446085",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia. 12 March 1898 (Item 1003b)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224642149",
         "https://nla.gov.au/nla.obj-224642264"
@@ -52564,7 +52580,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446142",
       "@type": "sc:Range",
       "label": "Draft of a bill to Constitute the Commonwealth of Australia. 1898 (Item 1004a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224649828",
         "https://nla.gov.au/nla.obj-224649945",
@@ -52622,7 +52637,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446329",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014a)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224664178",
         "https://nla.gov.au/nla.obj-224664299"
@@ -52632,7 +52646,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446355",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014b)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224664413",
         "https://nla.gov.au/nla.obj-224664533",
@@ -52644,7 +52657,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446386",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014c)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224664897",
         "https://nla.gov.au/nla.obj-224665010",
@@ -52655,7 +52667,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446411",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014d)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224665250",
         "https://nla.gov.au/nla.obj-224665376"
@@ -52665,7 +52676,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446440",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014e)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224665490"
       ]
@@ -52674,7 +52684,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446479",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014f)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224665617"
       ]
@@ -52683,7 +52692,6 @@
       "@id": "https://nla.gov.au/nla.obj-224446501",
       "@type": "sc:Range",
       "label": "Draft Bill with MS alterations suggested by Colonial Office, March 1900; notes relating to the alterations March-May 1900. (Item 1014g)",
-      "viewingHint": "top",
       "canvases": [
         "https://nla.gov.au/nla.obj-224665733"
       ]
