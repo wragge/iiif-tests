@@ -1,0 +1,3521 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://glam-workbench.net/trove-images/nla.obj-171366186-manifest.json",
+  "type": "Manifest",
+  "behavior": "paged",
+  "label": {
+    "en": [
+      "The Taronga Zoo songs [music]"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "type"
+        ]
+      },
+      "value": {
+        "en": [
+          "Book"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Wragg, Phyllis."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "Whitcombe & Tombs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "extent"
+        ]
+      },
+      "value": {
+        "en": [
+          "31 p. ; 25 cm."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1900"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://nla.gov.au/nla.obj-171366186",
+      "type": "Text",
+      "label": {
+        "en": [
+          "View in Trove"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nla.gov.au/nla.obj-171366193",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366193-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366193",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366193/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366193/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366193/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366193"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366301",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366301-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366301",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366301/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366301/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366301/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366301"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366413",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366413-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366413",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366413/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366413/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366413/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366413"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366522",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366522-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366522",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366522/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366522/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366522/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366522"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366634",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366634-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366634",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366634/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366634/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366634/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366634"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366744",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366744-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366744",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366744/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366744/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366744/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366744"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366856",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366856-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366856",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366856/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366856/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366856/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366856"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171366967",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366967-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171366967",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171366967/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171366967/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171366967/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171366967"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367077",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367077-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367077",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367077/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367077/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367077/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367077"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367187",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367187-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367187",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367187/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367187/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367187/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367187"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367296",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367296-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367296",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367296/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367296/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367296/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367296"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367405",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367405-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367405",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367405/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367405/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367405/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367405"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367510",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367510-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367510",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367510/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367510/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367510/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367510"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367624",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367624-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367624",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367624/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367624/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367624/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367624"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367736",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367736-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367736",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367736/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367736/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367736/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367736"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367845",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367845-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367845",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367845/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367845/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367845/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367845"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171367950",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367950-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171367950",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171367950/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171367950/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171367950/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171367950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368069",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368069-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368069",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368069/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368069/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368069/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368069"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368172",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368172-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368172",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368172/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368172/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368172/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368172"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368283",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368283-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368283",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368283/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368283/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368283/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368283"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368390",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368390-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368390",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368390/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368390/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368390/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368390"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368504",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368504-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368504",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368504/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368504/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368504/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368504"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368613",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368613-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368613",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368613/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368613/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368613/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368613"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368729",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368729-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368729",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368729/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368729/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368729/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368729"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368830",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368830-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368830",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368830/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368830/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368830/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368830"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171368940",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368940-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171368940",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171368940/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171368940/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171368940/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171368940"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369055",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369055-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369055",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369055/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369055/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369055/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369055"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369162",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369162-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369162",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369162/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369162/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369162/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369162"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369275",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369275-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369275",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369275/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369275/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369275/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369275"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369384",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369384-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369384",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369384/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369384/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369384/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369384"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369490",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369490-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369490",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369490/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369490/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369490/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369490"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369601",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369601-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369601",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369601/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369601/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369601/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369601"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369711",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369711-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369711",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369711/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369711/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369711/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369711"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-171369820",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Taronga Zoo songs [music]"
+        ]
+      },
+      "height": 5000,
+      "width": 5000,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "type"
+            ]
+          },
+          "value": {
+            "en": [
+              "Book"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Wragg, Phyllis."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "publisher"
+            ]
+          },
+          "value": {
+            "en": [
+              "Whitcombe & Tombs"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "extent"
+            ]
+          },
+          "value": {
+            "en": [
+              "31 p. ; 25 cm."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369820-t",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://nla.gov.au/nla.obj-171369820",
+          "type": "Text",
+          "label": {
+            "en": [
+              "View in Trove"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://glam-workbench.net/trove-images/nla.obj-171369820/page/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://glam-workbench.net/trove-images/nla.obj-171369820/annotation/",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-171369820/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-171369820"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
