@@ -1,0 +1,4646 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://glam-workbench.net/trove-images/nla.obj-141170265/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "B.A.N.Z. Antarctic Research Expedition photographs [picture]"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nla.gov.au/nla.obj-141170279",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Charting treacherous sub Antarctic coasts, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141170279/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3785",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141170279/image",
+                "type": "Image",
+                "height": 3727,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141170279"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141170425",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery forcing a passage through the ice off the coast of Mac-Robertson Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141170425/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3786",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141170425/image",
+                "type": "Image",
+                "height": 1624,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141170425"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141170571",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A wake formed by the passage of the Discovery through an extensive field of ice off the coast of Enderby Island, New Zealand, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141170571/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3787",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141170571/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1594,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141170571"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141170721",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Iceberg and ice floes viewed from the Discovery, off the coast of Kemp Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141170721/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3788",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141170721/image",
+                "type": "Image",
+                "height": 3890,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141170721"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141170878",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sir Douglas Mawson and expedition members cheering the raising of the Union Jack flag at Proclamation Harbour, Enderby Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141170878/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3789",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141170878/image",
+                "type": "Image",
+                "height": 3681,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141170878"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171021",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Two Rockhopper Penguins and a predatory Skua, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171021/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3790",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171021/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3662,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171174",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Iceberg encountered by the Discovery, 900 miles north of the Antarctic continent, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171174/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3791",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171174/image",
+                "type": "Image",
+                "height": 3780,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171174"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171324",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Gentoo penguin and baby, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171324/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3792",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171324/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3805,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171324"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171475",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The hut in which eight scientists sheltered in November 1929 during a prolonged blizzard, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171475/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3793",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171475/image",
+                "type": "Image",
+                "height": 3805,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171475"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171623",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery forcing a passage through loose pack ice to Proclamation Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171623/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3794",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171623/image",
+                "type": "Image",
+                "height": 1611,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171623"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171771",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery off the coast of Heard Island at Corinthian Bay, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171771/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3795",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171771/image",
+                "type": "Image",
+                "height": 1592,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171771"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141171920",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A Gipsy Moth seaplane being swung over the side of the Discovery for a survey flight over the new Antarctic lands discovered by the B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141171920/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3796",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141171920/image",
+                "type": "Image",
+                "height": 3810,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141171920"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172073",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The wake of the Discovery near the coast of Enderby Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172073/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3797",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172073/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1627,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172073"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172223",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Discovery sailing through floes and brash ice off the coast of Kemp Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172223/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3798",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172223/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1621,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172223"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172378",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Elephant seal pups in a secluded corner of Atlas Cove, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172378/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3799",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172378/image",
+                "type": "Image",
+                "height": 3783,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172378"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172525",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Large group of penguins on a rocky outcrop, Mac-Robertson Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172525/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3800",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172525/image",
+                "type": "Image",
+                "height": 3787,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172671",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Two Gentoo penguin chicks pecking their way out of their eggs at Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172671/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3801",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172671/image",
+                "type": "Image",
+                "height": 3789,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172671"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172828",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery navigating a precarious course through icebergs off the coast of Mac-Robertson Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172828/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3802",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172828/image",
+                "type": "Image",
+                "height": 1597,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172828"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141172976",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery forcing a passage through open pack ice north of Kemp Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141172976/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3803",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141172976/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1628,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141172976"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173120",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery in congested pack ice off Mac-Robertson Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173120/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3804",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173120/image",
+                "type": "Image",
+                "height": 3841,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173276",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Young elephant seal lying on tussock grass, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173276/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3805",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173276/image",
+                "type": "Image",
+                "height": 3790,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173276"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173423",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Atlas Cove, Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173423/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3806",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173423/image",
+                "type": "Image",
+                "height": 3926,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173423"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173570",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A net being lowered into the water from the side of the Discovery, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173570/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3807",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173570/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 4088,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173570"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173725",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view across icefields to Proclamation Island, Enderby Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173725/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3808",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173725/image",
+                "type": "Image",
+                "height": 3644,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173725"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141173875",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of the fjords of Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141173875/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3809",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141173875/image",
+                "type": "Image",
+                "height": 3537,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141173875"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174024",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain J.K. Davis, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174024/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3810",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174024/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3730,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174176",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Chief Officer K.N. Mackenzie, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174176/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3811",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174176/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3774,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174320",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Second Officer W.R. Colbeck, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174320/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3812",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174320/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3766,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174320"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174478",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Third Officer J.B. Child, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174478/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3813",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174478/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3786,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174622",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Chief Engineer W.J. Griggs, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174622/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3814",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174622/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3770,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174622"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174772",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Second Engineer B.F. Welsh, B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174772/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3815",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174772/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3768,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174772"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141174925",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Wireless operator Petty Officer A.J. Williams,  B.A.N.Z. Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141174925/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3816",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141174925/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3780,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141174925"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175074",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain J.K. Davis, Major R.G. Casey,  Dr. H.R. Mill,  Reverend J. Gordon Hayes on board the Discovery, July 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175074/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3817",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175074/image",
+                "type": "Image",
+                "height": 3800,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175074"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175224",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Third Officer J.B. Child standing with another sailor on board the Discovery, B.A.N.Z. Antarctic Research Expedition, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175224/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3818",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175224/image",
+                "type": "Image",
+                "height": 3668,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175224"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175379",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Wireless operator Petty Officer A.J. Williams on deck with visitors to the Discovery, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175379/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3819",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175379/image",
+                "type": "Image",
+                "height": 3759,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175379"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175521",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Stores going on board the Discovery, B.A.N.Z. Antarctic Research Expedition, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175521/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3820",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175521/image",
+                "type": "Image",
+                "height": 3748,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175521"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175677",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Visitors from a press reception leaving after inspecting the Discovery, East India Docks, London, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175677/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3821",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175677/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3771,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175677"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175823",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Icebergs and ice floes north of Proclamation Island, Enderby Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175823/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3822",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175823/image",
+                "type": "Image",
+                "height": 3618,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175823"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141175978",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of lava flows, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141175978/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3823",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141175978/image",
+                "type": "Image",
+                "height": 3518,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141175978"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176129",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of the crevassed surface of an iceberg drifting with the pack ice off the coast of MacRobertson Land, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176129/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3824",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176129/image",
+                "type": "Image",
+                "height": 3773,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176129"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176273",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of scattered and broken sea ice after a blizzard, Antarctic Ocean, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176273/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3825",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176273/image",
+                "type": "Image",
+                "height": 3641,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176273"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176421",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Shattered icefloes and rosette ice crystals in the pack ice, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176421/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3826",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176421/image",
+                "type": "Image",
+                "height": 3628,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176421"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176579",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of Royal Sound, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176579/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3827",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176579/image",
+                "type": "Image",
+                "height": 3515,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176579"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176728",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Proclamation Harbour with the coastal ice-slopes of Enderby Land in the background, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176728/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3828",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176728/image",
+                "type": "Image",
+                "height": 3675,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176728"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141176870",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of Enderby Land, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141176870/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3829",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141176870/image",
+                "type": "Image",
+                "height": 3662,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141176870"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177028",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Frank Hurley, official photographer to the B.A.N.Z. Antarctic Research Expedition, filming from the tip of the Discovery's jib-boom, ca. 1930 [picture]."
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177028/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3830",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177028/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3932,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177179",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sir Douglas Mawson, leader of the 1929-1931 British Australian New Zealand Antarctic Research Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177179/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3831",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177179/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3779,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177323",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Hot air from the Discovery's stoke hole being led through a canvas chute to warm the sea plane's engine, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177323/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3832",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177323/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 4014,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177323"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177471",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Crew members preparing bird specimens for museum distribution on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177471/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3833",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177471/image",
+                "type": "Image",
+                "height": 3736,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177471"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177624",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Crew repairing trawling and netting equipment on the deck of the Discovery, ca. 1930, 1 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177624/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3834",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177624/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3570,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177624"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177773",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Crew members repairing holes in the wings of the aeroplane made by ice falling from the Discovery's rigging during a blizzard, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177773/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3835",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177773/image",
+                "type": "Image",
+                "height": 4030,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177773"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141177927",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sir Douglas Mawson and Flying Officer Campbell leaving the Discovery in a Gipsy Moth sea plane to survey newly discovered Antarctic lands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141177927/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3836",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141177927/image",
+                "type": "Image",
+                "height": 3779,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141177927"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178075",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Elephant seals on a beach, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178075/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3837",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178075/image",
+                "type": "Image",
+                "height": 3666,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178075"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178226",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Kergeulen's eternal icecap, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178226/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3838",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178226/image",
+                "type": "Image",
+                "height": 3720,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178226"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178377",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Penguins and elephant seals on a beach, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178377/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3839",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178377/image",
+                "type": "Image",
+                "height": 3778,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178377"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178520",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "View of American Bay on the east coast of Possession Island, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178520/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3840",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178520/image",
+                "type": "Image",
+                "height": 1655,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178676",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Expedition scientists taking a midday snack while collecting at the Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178676/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3841",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178676/image",
+                "type": "Image",
+                "height": 3794,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178825",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sir Douglas Mawson and other expedition members classifying collected specimens in the wardroom of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178825/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3842",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178825/image",
+                "type": "Image",
+                "height": 3711,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178825"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141178979",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "View looking over the eastern reaches of Swain's Bay, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141178979/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3843",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141178979/image",
+                "type": "Image",
+                "height": 3793,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141178979"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179124",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Penguins and elephant seals on the beach, Possession Island, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179124/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3844",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179124/image",
+                "type": "Image",
+                "height": 3682,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179275",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The nest of the Dominican gull under the shelter of tall Kerguelen cabbage, and lined with tufts of dry grass, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179275/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3845",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179275/image",
+                "type": "Image",
+                "height": 3791,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179275"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179428",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Dr Ingram holding a young albatross captured at Crozet Island, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179428/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3846",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179428/image",
+                "type": "Image",
+                "height": 3745,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179572",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "An island slope overgrown with an edible plant known as Kergeulen cabbage, Kergeulen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179572/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3847",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179572/image",
+                "type": "Image",
+                "height": 3839,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179572"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179722",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "An albatross flying near Discovery's sails, near Kergeulen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179722/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3848",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179722/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3767,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179722"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141179873",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain Frank Hurley with a camera on board the Discovery, ca. 1931 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141179873/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3849",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141179873/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3824,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141179873"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180024",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Rockhopper penguins on a cliff edge above the sea at Heard Island, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180024/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3850",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180024/image",
+                "type": "Image",
+                "height": 3567,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180176",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sir Douglas Mawson in his study aboard the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180176/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3851",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180176/image",
+                "type": "Image",
+                "height": 3877,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180320",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Expedition members relaxing and listening to music in a cabin on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180320/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3852",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180320/image",
+                "type": "Image",
+                "height": 3874,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180320"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180478",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Southern elephant seals, Heard Island, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180478/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3853",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180478/image",
+                "type": "Image",
+                "height": 3554,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180622",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Members of the scientific expedition on board the Discovery arriving in Adelaide, South Australia, 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180622/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3854",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180622/image",
+                "type": "Image",
+                "height": 3686,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180622"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180772",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Crew repairing trawling and netting equipment on the deck of the Discovery, ca. 1930, 2 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180772/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3855",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180772/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 4082,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180772"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141180925",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The ship's cook and assistant at the stove in the kitchen of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141180925/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3856",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141180925/image",
+                "type": "Image",
+                "height": 3469,
+                "width": 4805,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141180925"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181072",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Professor Thomas Johnston, James Marr and Frank Hurley in a cabin on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181072/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3857",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181072/image",
+                "type": "Image",
+                "height": 3826,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181222",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Flying-officer Stuart Campbell and pilot-officer Eric Douglas standing beside the Gipsy moth seaplane on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181222/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3858",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181222/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3579,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181375",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A cross erected by the members of the French scientific mission at Port Jeanne D'arc, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181375/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3859",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181375/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3768,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181375"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181526",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Penguins nestled against the ground weathering out a gale on Heard Island, Antarctica, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181526/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3860",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181526/image",
+                "type": "Image",
+                "height": 3800,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181526"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181673",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Scientists aboard the Discovery sorting and preserving a haul dredged from the Antarctic sea floor, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181673/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3861",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181673/image",
+                "type": "Image",
+                "height": 3590,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181673"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181829",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Press reception on board the Discovery at East India dock, Poplar, London, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181829/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3862",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181829/image",
+                "type": "Image",
+                "height": 3738,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181829"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141181970",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A policeman and two sailors inspecting a dummy clothed in Antarctic gear, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141181970/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3863",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141181970/image",
+                "type": "Image",
+                "height": 3817,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141181970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182126",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A policeman and two sailors with Antarctica equipment, including clothing, a tent and a sled, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182126/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3864",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182126/image",
+                "type": "Image",
+                "height": 3769,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182270",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery in the East India dock in Poplar, London, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182270/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3865",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182270/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3644,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182270"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182420",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Two sailors with a gramophone and records presented by the Gramophone Company to the expedition team, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182420/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3866",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182420/image",
+                "type": "Image",
+                "height": 3655,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182420"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182576",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain Davis showing friends around the Discovery during the press reception at East India dock, Poplar, London, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182576/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3867",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182576/image",
+                "type": "Image",
+                "height": 3609,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182576"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182727",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Coal briquettes being loaded on to the Discovery in Cardiff, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182727/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3868",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182727/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3763,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182727"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141182872",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Chief Steward with the ship's cook and assistant in the kitchen of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141182872/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3869",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141182872/image",
+                "type": "Image",
+                "height": 3773,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141182872"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183021",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Wireless officer A.J. Williams receiving farewell greetings as the Discovery leaves Cardiff, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183021/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3870",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183021/image",
+                "type": "Image",
+                "height": 3791,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183174",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery moored alongside the Crown Coal Company's loading berth at Cardiff, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183174/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3871",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183174/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3777,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183174"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183324",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Coal loading operations on board the Discovery alongside the Crown Coal Company's wharf at Cardiff, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183324/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3872",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183324/image",
+                "type": "Image",
+                "height": 3795,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183324"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183475",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Scientific equipment, stores and fuel stowed on the deck of the Discovery, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183475/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3873",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183475/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3811,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183475"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183623",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Crowds explore the Discovery prior to departure from Cardiff, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183623/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3874",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183623/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3778,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183623"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183771",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Australian flag flying as the Discovery leaves Cardiff harbour, Wales, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183771/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3875",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183771/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3818,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183771"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141183920",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery's anchor being hoisted at the start of the expedition to Antarctica, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141183920/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3876",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141183920/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3821,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141183920"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184073",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Frank Hurley looking at a map with Alfred Hodgeman and John Hamilton Blair, members of earlier Antarctic expeditions, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184073/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3877",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184073/image",
+                "type": "Image",
+                "height": 3800,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184073"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184223",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The officers of the Discovery, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184223/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3878",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184223/image",
+                "type": "Image",
+                "height": 3769,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184223"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184378",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Frank Hurley talking with other expedition team members on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184378/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3879",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184378/image",
+                "type": "Image",
+                "height": 3778,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184378"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184525",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery in dry dock, ca. 1929, 1 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184525/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3880",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184525/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3424,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192803",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Frank Hurley standing on the tip of the Discovery's jib-boom, ca. 1930 [picture] (page 1)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192803/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3881",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192803/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3375,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192953",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Frank Hurley standing on the tip of the Discovery's jib-boom, ca. 1930 [picture] (page 2)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192953/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3882",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192953/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3569,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192953"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184770",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery in dry dock, ca. 1929, 2 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184770/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3883",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184770/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3815,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184770"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141184921",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Looking down on the Discovery from the top of a mast, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141184921/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3884",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141184921/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3795,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141184921"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185077",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery sailing south towards Antarctica, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185077/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3885",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185077/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3759,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185077"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185225",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Three men doing repair work on the underneath of the Discovery, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185225/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3886",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185225/image",
+                "type": "Image",
+                "height": 3823,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185225"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185372",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A man standing next to the Discovery's propeller and rudder, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185372/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3887",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185372/image",
+                "type": "Image",
+                "height": 3816,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185372"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185529",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185529/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3888",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185529/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1650,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185529"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185670",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "View looking through the rigging on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185670/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3889",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185670/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1622,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185670"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185821",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A mid ocean meeting between Discovery and the motor liner Dunster Grange en route to Buenos Ayres, 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185821/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3890",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185821/image",
+                "type": "Image",
+                "height": 2067,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185821"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141185975",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The ship's cook and the Chief Steward in the kitchen of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141185975/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3891",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141185975/image",
+                "type": "Image",
+                "height": 3859,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141185975"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186124",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The crew of the Discovery pose for a farewell portrait before the vessel leaves Capetown, South Africa, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186124/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3892",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186124/image",
+                "type": "Image",
+                "height": 3713,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186275",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery sailing in the moonlight, ca. 1930, 2 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186275/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3893",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186275/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3729,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186275"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186428",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery sailing in the moonlight, ca. 1930, 1 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186428/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3894",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186428/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3762,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186572",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery at sea, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186572/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3895",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186572/image",
+                "type": "Image",
+                "height": 3800,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186572"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186722",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery heading south on the way to Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186722/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3896",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186722/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3757,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186722"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141186873",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery at sea under full sail, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141186873/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3897",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141186873/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3744,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141186873"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187026",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Members of the Discovery's crew taking in the mainsail near Capetown, South Africa, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187026/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3898",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187026/image",
+                "type": "Image",
+                "height": 3780,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187178",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Officers and crew of the Discovery on arrival in Cape Town, South Africa, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187178/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3899",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187178/image",
+                "type": "Image",
+                "height": 3750,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187178"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187325",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery's main mast under full sail, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187325/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3900",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187325/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3784,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187325"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187476",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Australian flag on board the Discovery, Cape Town, South Africa, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187476/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3901",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187476/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3765,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187476"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187627",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "View of the Discovery's main mast and crow's nest lookout, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187627/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3902",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187627/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3752,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187627"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187777",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "John King Davis, Captain of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187777/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3903",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187777/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3777,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187777"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141187923",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "James Marr, zoologist with the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141187923/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3904",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141187923/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3791,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141187923"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188079",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Alf Howard, chemist with the B.A.N.Z. Expedition, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188079/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3905",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188079/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3766,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188221",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Thomas Harvey Johnston, member of the scientific staff of the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188221/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3906",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188221/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3781,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188221"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188371",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ritchie Gibson Simmers, meteorologist with the B.A.N.Z. Expedition, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188371/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3907",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188371/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3777,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188371"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141193108",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Dr William Ingram, medical officer with the B.A.N.Z. Expedition, ca. 1930 [picture] (page 1)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141193108/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3908",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141193108/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3796,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141193108"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141193250",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Dr William Ingram, medical officer with the B.A.N.Z. Expedition, ca. 1930 [picture] (page 2)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141193250/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3909",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141193250/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3001,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141193250"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188629",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Royal Australian Air Force pilot officer Eric Douglas, onboard the Discovery with the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188629/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3910",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188629/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3772,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188629"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188774",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Instructor Commander Morton Moyes on board the Discovery with the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188774/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3911",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188774/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3770,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188774"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188928",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Harold Fletcher, zoologist to the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141188928/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3912",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141188928/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3768,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141188928"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189075",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Flight-Lieutenant Campbell of the Royal Australian Air Force on board the Discovery, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189075/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3913",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189075/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3781,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189075"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189226",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain Frank Hurley, photographic officer of the B.A.N.Z. Expedition, ca. 1929 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189226/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3914",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189226/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3771,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189226"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189377",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Robert Falla, assistant zoologist with the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189377/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3915",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189377/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3783,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189377"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189520",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Able seaman Maclennan with two kittens on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189520/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3916",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189520/image",
+                "type": "Image",
+                "height": 3768,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189676",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery at sea running under topsails and staysails, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189676/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3917",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189676/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1796,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189825",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The forecastle of the Discovery viewed from the main yard tip, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189825/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3918",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189825/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1802,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189825"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141189979",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Discovery heading south under jibs and staysails, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141189979/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3919",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141189979/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1792,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141189979"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190123",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "View of the Discovery showing netting equipment, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190123/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3920",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190123/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1790,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190271",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery sailing at sunset, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190271/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3921",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190271/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1799,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190271"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190424",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Aerial view of the Discovery from above the main mast, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190424/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3922",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190424/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1801,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190424"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190573",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The deck of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190573/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3923",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190573/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1794,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190573"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190729",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190729/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3924",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190729/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1792,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190729"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141190874",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Cormorants on a rocky shore, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141190874/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3925",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141190874/image",
+                "type": "Image",
+                "height": 3770,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141190874"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191024",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery moored at Port Jeanne d'Arc, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191024/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3926",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191024/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3738,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191176",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Discovery at Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191176/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3927",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191176/image",
+                "type": "Image",
+                "height": 3745,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191357",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Panorama overlooking Swain's Bay and Royal Sound, Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191357/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3928",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191357/image",
+                "type": "Image",
+                "height": 588,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191357"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191455",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Elephant seals on the rocks, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191455/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3929",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191455/image",
+                "type": "Image",
+                "height": 2414,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191455"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191606",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sheathbill, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191606/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3930",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191606/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3661,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191606"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191751",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Giant petrels, Antarctica, 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191751/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3931",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191751/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 3150,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191751"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141191901",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sunset viewed through the sails of the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141191901/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3932",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141191901/image",
+                "type": "Image",
+                "height": 5000,
+                "width": 1637,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141191901"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192054",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Expedition zoologists Robert Falla and Harold Fletcher skinning bird specimens and preserving skins collected from Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192054/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3933",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192054/image",
+                "type": "Image",
+                "height": 3795,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192054"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192200",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "A densely populated sub-Antarctic colony of elephant seals on a beach during mating season, Crozet Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192200/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3934",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192200/image",
+                "type": "Image",
+                "height": 3726,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192352",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Expedition members exploring Kerguelen Islands, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192352/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3935",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192352/image",
+                "type": "Image",
+                "height": 3847,
+                "width": 5000,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192352"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192508",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Captain John King Davis on board the Discovery, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192508/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3936",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192508/image",
+                "type": "Image",
+                "height": 4592,
+                "width": 3268,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192508"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141192655",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "B.A.N.Z. Antarctic Research Expedition photographs [picture] (page 151)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192655/view",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3937",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nla.gov.au/nla.obj-141192655/image",
+                "type": "Image",
+                "height": 1800,
+                "width": 1383,
+                "format": "image/jpeg"
+              },
+              "target": "https://nla.gov.au/nla.obj-141192655"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://nla.gov.au/nla.obj-141184671",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Frank Hurley standing on the tip of the Discovery's jib-boom, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141192803",
+          "type": "Canvas",
+          "items": []
+        },
+        {
+          "id": "https://nla.gov.au/nla.obj-141192953",
+          "type": "Canvas",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://nla.gov.au/nla.obj-141188524",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Dr William Ingram, medical officer with the B.A.N.Z. Expedition, ca. 1930 [picture]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nla.gov.au/nla.obj-141193108",
+          "type": "Canvas",
+          "items": []
+        },
+        {
+          "id": "https://nla.gov.au/nla.obj-141193250",
+          "type": "Canvas",
+          "items": []
+        }
+      ]
+    }
+  ]
+}
