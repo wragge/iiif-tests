@@ -73106,28 +73106,23 @@
       "items": [
         {
           "id": "https://nla.gov.au/nla.obj-224637433",
-          "type": "Range",
-          "items": []
+          "type": "Range"
         },
         {
           "id": "https://nla.gov.au/nla.obj-224637465",
-          "type": "Range",
-          "items": []
+          "type": "Range"
         },
         {
           "id": "https://nla.gov.au/nla.obj-224637498",
-          "type": "Range",
-          "items": []
+          "type": "Range"
         },
         {
           "id": "https://nla.gov.au/nla.obj-224637525",
-          "type": "Range",
-          "items": []
+          "type": "Range"
         },
         {
           "id": "https://nla.gov.au/nla.obj-224637558",
-          "type": "Range",
-          "items": []
+          "type": "Range"
         }
       ]
     },
